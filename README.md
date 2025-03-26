@@ -12,7 +12,7 @@ Open Source & JB-free mods for Geometry Dash
 
 ## 📱 Install
 
-1. Compile auby or get **very very very outdated** dylib from releases
+1. Compile auby or get **very very very outdated** skibidi dylib from releases
 2. Get 2.206 decrypted IPA
 3. Inject auby and sideload IPA (the easiest way is to use [sideloadly](https://sideloadly.io/))
 
